@@ -1,0 +1,17 @@
+{
+  "name": "gps",
+  "version": "1.0.0",
+  "description": "server for gps",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "gps"
+  ],
+  "author": "ha1den",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
